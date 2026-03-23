@@ -72,11 +72,6 @@ adb devices
 xcrun simctl list devices
 ```
 
-## Comandos utiles git
-
-
-
-
 ### Recursos útiles
 - Documentación oficial MAUI: https://learn.microsoft.com/dotnet/maui/
 - Tutoriales y ejemplos: https://github.com/dotnet/maui-samples
