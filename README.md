@@ -73,30 +73,12 @@ xcrun simctl list devices
 ```
 
 
-
-
-
-
-
-
-# Estructura básica
-
-
-/MyGoodDiary
-│
-├─ Platforms/       # Configuraciones específicas de cada plataforma
-├─ Resources/       # Imágenes, fuentes, estilos
-├─ Views/           # Páginas y layouts
-├─ ViewModels/      # Lógica de presentación
-├─ Models/          # Modelos de datos
-├─ App.xaml         # Configuración global de la aplicación
-└─ MainPage.xaml    # Página principal
-
-
-## Recursos útiles
+### Recursos útiles
 - Documentación oficial MAUI: https://learn.microsoft.com/dotnet/maui/
 - Tutoriales y ejemplos: https://github.com/dotnet/maui-samples
 - Tips de depuración y Hot Reload: https://learn.microsoft.com/dotnet/maui/debug
+
+
 
 
 
