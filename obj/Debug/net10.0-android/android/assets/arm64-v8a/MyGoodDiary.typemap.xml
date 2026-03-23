@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="MyGoodDiary" mvid="73a3987202c44dbeab4d3e138a350e36">
+<api type="debug" assembly-name="MyGoodDiary" mvid="10a25b26e7ac4d51a875c60db0da8c2a">
   <java-to-managed>
     <entry java-name="crc644217c15f56d4d026/MainActivity" managed-name="MyGoodDiary.MainActivity, MyGoodDiary" managed-type-token-id="33554443" />
     <entry java-name="crc644217c15f56d4d026/MainApplication" managed-name="MyGoodDiary.MainApplication, MyGoodDiary" managed-type-token-id="33554444" />
