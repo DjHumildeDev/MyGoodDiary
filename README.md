@@ -95,7 +95,7 @@ MyGoodDiary sigue buenas prácticas modernas de desarrollo:
 - Mantenibilidad 🔧  
 - Testeo 🧪  
 
----
+
 
 ## 🏗️ Arquitectura
 
@@ -112,7 +112,7 @@ flowchart LR
 - **View** → Interfaz de usuario  
 - **ViewModel** → Lógica de presentación  
 
----
+
 
 ## 📁 Estructura del Proyecto
 
@@ -151,7 +151,7 @@ MyGoodDiary/
 - ✅ Reutilización de recursos  
 - ✅ Estructura preparada para escalar  
 
----
+
 
 ## 🧠 Convenciones
 
@@ -159,7 +159,7 @@ MyGoodDiary/
 - Evitar lógica en code-behind  
 - `Models` simples (POCOs)  
 
----
+
 
 ## 📌 Notas Técnicas
 
@@ -167,7 +167,7 @@ MyGoodDiary/
 - Fácil integración con testing y DI  
 - Arquitectura extensible  
 
----
+
 
 ## ✨ Futuras Mejoras
 
@@ -176,7 +176,7 @@ MyGoodDiary/
 - [ ] Navegación desacoplada
 - [ ] Estado global centralizado
 
----
+
 
 ## 🛠️ Stack
 
