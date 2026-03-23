@@ -72,6 +72,10 @@ adb devices
 xcrun simctl list devices
 ```
 
+## Comandos utiles git
+
+
+
 
 ### Recursos útiles
 - Documentación oficial MAUI: https://learn.microsoft.com/dotnet/maui/
@@ -185,3 +189,103 @@ MyGoodDiary/
 - MVVM  
 
 ---
+
+
+
+
+
+
+
+
+# Comandos Utiles de Git
+
+
+# Comandos Git Guays y Curiosos
+
+Este es un listado de comandos Git chulos, curiosos y útiles, pensados para ver commits con colores, gráficos, alias, y trucos que pocos conocen. Ideal para tener a mano mientras trabajas en proyectos y quieres impresionar en la terminal.
+
+---
+
+-  Árbol de commits 
+```bash
+git log --oneline --graph --decorate --all --color
+```
+- Versión avanzada con detalles de autor, ramas y fecha:
+```bash
+git log --graph --pretty=format:'%C(red)%h%C(reset) - %C(cyan)%an%C(reset) %C(yellow)%d%C(reset) %s %C(green)(%cr)%C(reset)' --all
+```
+
+- Buscar commits que modificaron una función específica
+```bash
+git log -L :nombreFuncion:archivo.cs
+```
+
+- Ver quién cambió cada línea de un archivo
+```bash
+git blame archivo.cs
+```
+
+- Con colores y commits recientes:
+
+```bash
+git blame -c -w archivo.cs
+```
+
+- Ver tus contribuciones recientes en la rama actual
+```bash
+git shortlog -s -n --all
+```
+
+-  Comparar ramas con colores
+```bash
+git diff --color-words develop..main
+```
+
+- Ver commits que afectaron un archivo con gráfico de historial
+```bash
+git log --graph --oneline --follow archivo.cs
+```
+
+- Configurar alias
+```bash
+git lg
+```
+
+- Si no lo tienes, configúralo así:
+```bash
+git config --global alias.lg "log --oneline --graph --decorate --all --color"
+```
+
+- Ver cambios no confirmados
+```bash
+git diff --color
+```
+
+- Resumen de cambios:
+```bash
+git diff --stat
+```
+
+- Ver historial de merges
+```bash
+git log --merges --oneline --graph
+```
+
+
+- Archivos más modificados en el repositorio
+```bash
+git log --pretty=format: --name-only | sort | uniq -c | sort -nr | head -20
+```
+
+- Reset a un commit exacto
+```bash
+git reset --hard abc1234
+```
+
+⚠️ Cuidado: borra cambios locales.
+
+- Eliminar ramas locales ya fusionadas
+```bash
+git branch --merged | grep -v "\*" | xargs -n 1 git branch -d
+
+```
