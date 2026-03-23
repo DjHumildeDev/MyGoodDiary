@@ -194,13 +194,6 @@ MyGoodDiary/
 
 # Comandos Utiles de Git
 
-
-# Comandos Git Guays y Curiosos
-
-Este es un listado de comandos Git chulos, curiosos y útiles, pensados para ver commits con colores, gráficos, alias, y trucos que pocos conocen. Ideal para tener a mano mientras trabajas en proyectos y quieres impresionar en la terminal.
-
----
-
 -  Árbol de commits 
 ```bash
 git log --oneline --graph --decorate --all --color
@@ -284,3 +277,5 @@ git reset --hard abc1234
 git branch --merged | grep -v "\*" | xargs -n 1 git branch -d
 
 ```
+
+---
