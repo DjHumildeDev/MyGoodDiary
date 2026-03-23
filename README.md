@@ -12,9 +12,9 @@ Permite llevar un diario personal con sincronizaci√≥n local y funcionalidades b√
 
 ## Comandos esenciales de MAUI
 
-### Crear un proyecto MAUI
+
 ```bash
-- dotnet new maui -n MyGoodDiary
+- dotnet new maui -n MyGoodDiary ( Crear un proyecto MAUI)
 
 - dotnet restore(Restaurar dependencias)
 
