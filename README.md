@@ -43,25 +43,28 @@ dotnet watch -f net10.0-windows10.0.22621.0 run
 
 
 - adb logcat -s MyGoodDiary:V(Ver logs en Android)
+```
 
 
 
 
 
-
-Emuladores y dispositivos
+## Emuladores y dispositivos
 Android: AVD Manager para crear emuladores, o conectar dispositivo con USB + depuración activada.
 iOS: Simulador Xcode (Cmd + Shift + H para reset), o dispositivo conectado con provisionamiento correcto.
 
 - Comando rápido para ver dispositivos Android conectados:
+
 ```bash
 adb devices
 
+```
 - Comando rápido para ver simuladores iOS:
+
 ```bash
 
 xcrun simctl list devices
-
+```
 
 
 
