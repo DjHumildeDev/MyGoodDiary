@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Microsoft.Maui.Storage;
 using MyGoodDiary.src.Model;
 
+namespace MyGoodDiary.src.Service;
+
 public class EntradaService
 {
     private readonly SQLiteAsyncConnection _db;

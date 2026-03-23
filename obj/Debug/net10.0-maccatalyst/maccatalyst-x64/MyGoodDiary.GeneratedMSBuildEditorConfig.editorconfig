@@ -75,3 +75,23 @@ build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
+
+[J:/Dev/Proyetos/DiarioApp/MyGoodDiary/src/View/CalendarPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyGoodDiary.src.View.CalendarPage.xaml
+build_metadata.AdditionalFiles.TargetPath = src\View\CalendarPage.xaml
+build_metadata.AdditionalFiles.RelativePath = src\View\CalendarPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[J:/Dev/Proyetos/DiarioApp/MyGoodDiary/src/View/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyGoodDiary.src.View.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = src\View\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = src\View\HomePage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
