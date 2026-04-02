@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>J:\Dev\Proyetos\DiarioApp\MyGoodDiary</SourceProjectPath>
+      <SourceProjectPath>C:\proyectos\MyGoodDiary</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

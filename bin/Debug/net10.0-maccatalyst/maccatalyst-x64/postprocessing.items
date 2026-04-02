@@ -10,7 +10,7 @@
       <dSYMInfoPlistRelativePath>MyGoodDiary.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
       <SymbolFile></SymbolFile>
       <DSymName>MyGoodDiary.app.dSYM</DSymName>
-      <SourceProjectPath>J:\Dev\Proyetos\DiarioApp\MyGoodDiary</SourceProjectPath>
+      <SourceProjectPath>C:\proyectos\MyGoodDiary</SourceProjectPath>
       <IsXPCService></IsXPCService>
     </_PostProcessingItem>
   </ItemGroup>
