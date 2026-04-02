@@ -324,6 +324,7 @@ J:\Dev\Proyetos\DiarioApp\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\ref
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\MyGoodDiary.runtimeconfig.json
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\MyGoodDiary.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\MyGoodDiary.pdb
+C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -341,6 +342,7 @@ C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.C
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\Plugin.Maui.Calendar.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\SQLite-net.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
@@ -593,10 +595,12 @@ C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\unpack\Microsoft
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.inputs
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauifont.inputs
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauisplash.inputs
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449.png
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauisplash.stamp
-C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
-C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
-C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -609,9 +613,15 @@ C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\As
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.stamp
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.outputs
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\mauifont.stamp
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items

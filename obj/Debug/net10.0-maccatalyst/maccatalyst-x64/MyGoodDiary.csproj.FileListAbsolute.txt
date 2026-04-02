@@ -314,6 +314,7 @@ J:\Dev\Proyetos\DiarioApp\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\MyGoodDiary.runtimeconfig.json
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\MyGoodDiary.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\MyGoodDiary.pdb
+C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -331,6 +332,7 @@ C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Plugin.Maui.Calendar.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\SQLite-net.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.batteries_v2.dll
 C:\proyectos\MyGoodDiary\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\SQLitePCLRaw.core.dll
@@ -597,7 +599,10 @@ C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\resizetiz
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
 C:\proyectos\MyGoodDiary\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items

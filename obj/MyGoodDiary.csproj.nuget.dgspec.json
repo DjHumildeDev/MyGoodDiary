@@ -77,6 +77,10 @@
               "version": "[10.0.5, )",
               "autoReferenced": true
             },
+            "Plugin.Maui.Calendar": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.9.172, )"
@@ -396,6 +400,10 @@
               "target": "Package",
               "version": "[10.0.5, )",
               "autoReferenced": true
+            },
+            "Plugin.Maui.Calendar": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -717,6 +725,10 @@
               "version": "[10.0.5, )",
               "autoReferenced": true
             },
+            "Plugin.Maui.Calendar": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.9.172, )"
@@ -1031,6 +1043,10 @@
             "Microsoft.Maui.Controls": {
               "target": "Package",
               "version": "[10.0.20, )"
+            },
+            "Plugin.Maui.Calendar": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
