@@ -1,13 +1,9 @@
-using MyGoodDiary.src.ViewModel;
+namespace MyGoodDiary.src.View;
 
-namespace MyGoodDiary.src.View
+public partial class CalendarPage : ContentPage
 {
-	public partial class CalendarPage : ContentPage
+	public CalendarPage()
 	{
-		public CalendarPage()
-		{
-			
-		}
+		InitializeComponent();
 	}
 }
-

@@ -1,21 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\MyGoodDiary.csproj": {}
+    "C:\\proyectos\\MyGoodDiary\\MyGoodDiary.csproj": {}
   },
   "projects": {
-    "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\MyGoodDiary.csproj": {
+    "C:\\proyectos\\MyGoodDiary\\MyGoodDiary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\MyGoodDiary.csproj",
+        "projectUniqueName": "C:\\proyectos\\MyGoodDiary\\MyGoodDiary.csproj",
         "projectName": "MyGoodDiary",
-        "projectPath": "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\MyGoodDiary.csproj",
+        "projectPath": "C:\\proyectos\\MyGoodDiary\\MyGoodDiary.csproj",
         "packagesPath": "C:\\Users\\choch\\.nuget\\packages\\",
-        "outputPath": "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\obj\\",
+        "outputPath": "C:\\proyectos\\MyGoodDiary\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\choch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\choch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0-android",
@@ -24,6 +25,7 @@
           "net10.0-windows10.0.19041.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

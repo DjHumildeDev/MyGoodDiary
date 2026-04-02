@@ -10,6 +10,8 @@
             Text="MY GOOD DIARY"
             VerticalOptions="Center" />
         <Button
-            Text="ABRIR DIARIO"/>
+            Text="ABRIR DIARIO"
+            Command="{Binding AbrirCommand}"
+            />
     </VerticalStackLayout>
 </ContentPage>

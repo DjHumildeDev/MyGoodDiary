@@ -1,5 +1,6 @@
 using System.Windows.Input;
 
+
 namespace MyGoodDiary.src.ViewModel;
 
 public class HomeViewModel : BaseViewModel

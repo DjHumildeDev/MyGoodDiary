@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NAK+oTEgZbA=",
+  "dgSpecHash": "3TWnfRwaK+E=",
   "success": true,
-  "projectFilePath": "J:\\Dev\\Proyetos\\DiarioApp\\MyGoodDiary\\MyGoodDiary.csproj",
+  "projectFilePath": "C:\\proyectos\\MyGoodDiary\\MyGoodDiary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\choch\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\choch\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",
