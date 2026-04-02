@@ -35,8 +35,8 @@
                     Padding="10"               
                     DaysTitleLabelFirstUpperRestLower="True"
                     SelectedDate="{Binding FechaSeleccionada}"
-                    SelectedDayBackgroundColor="#512BD4"
-                    SelectedDayTextColor="White" 
+                    SelectedDayBackgroundColor="#FFFF1DF4"
+                    SelectedDayTextColor="#FF0A3000" 
                     />
                     
 
